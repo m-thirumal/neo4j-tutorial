@@ -2,5 +2,5 @@ spring:
   neo4j:
     uri: bolt://192.168.0.27:7687
     authentication: 
-      username: thirumal
+      username: neo4j
       password: thirumal
